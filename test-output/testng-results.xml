@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="20" passed="20">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="116087" started-at="2017-08-08T06:48:48Z" finished-at="2017-08-08T06:50:44Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="116087" started-at="2017-08-08T06:48:48Z" finished-at="2017-08-08T06:50:44Z">
+      <class name="seleniumTestNGinterview.LoadAndPerformanceTesting">
+        <test-method status="PASS" signature="loadTest()[pri:0, instance:seleniumTestNGinterview.LoadAndPerformanceTesting@204f30ec]" name="loadTest" duration-ms="45634" started-at="2017-08-08T12:18:48Z" finished-at="2017-08-08T12:19:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadTest -->
+        <test-method status="PASS" signature="loadTest()[pri:0, instance:seleniumTestNGinterview.LoadAndPerformanceTesting@204f30ec]" name="loadTest" duration-ms="43113" started-at="2017-08-08T12:18:48Z" finished-at="2017-08-08T12:19:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadTest -->
+        <test-method status="PASS" signature="loadTest()[pri:0, instance:seleniumTestNGinterview.LoadAndPerformanceTesting@204f30ec]" name="loadTest" duration-ms="44669" started-at="2017-08-08T12:18:48Z" finished-at="2017-08-08T12:19:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadTest -->
+        <test-method status="PASS" signature="loadTest()[pri:0, instance:seleniumTestNGinterview.LoadAndPerformanceTesting@204f30ec]" name="loadTest" duration-ms="44637" started-at="2017-08-08T12:18:48Z" finished-at="2017-08-08T12:19:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadTest -->
+        <test-method status="PASS" signature="loadTest()[pri:0, instance:seleniumTestNGinterview.LoadAndPerformanceTesting@204f30ec]" name="loadTest" duration-ms="43113" started-at="2017-08-08T12:18:48Z" finished-at="2017-08-08T12:19:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadTest -->
+        <test-method status="PASS" signature="loadTest()[pri:0, instance:seleniumTestNGinterview.LoadAndPerformanceTesting@204f30ec]" name="loadTest" duration-ms="21112" started-at="2017-08-08T12:19:31Z" finished-at="2017-08-08T12:19:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadTest -->
+        <test-method status="PASS" signature="loadTest()[pri:0, instance:seleniumTestNGinterview.LoadAndPerformanceTesting@204f30ec]" name="loadTest" duration-ms="21627" started-at="2017-08-08T12:19:31Z" finished-at="2017-08-08T12:19:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadTest -->
+        <test-method status="PASS" signature="loadTest()[pri:0, instance:seleniumTestNGinterview.LoadAndPerformanceTesting@204f30ec]" name="loadTest" duration-ms="24361" started-at="2017-08-08T12:19:32Z" finished-at="2017-08-08T12:19:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadTest -->
+        <test-method status="PASS" signature="loadTest()[pri:0, instance:seleniumTestNGinterview.LoadAndPerformanceTesting@204f30ec]" name="loadTest" duration-ms="26175" started-at="2017-08-08T12:19:32Z" finished-at="2017-08-08T12:19:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadTest -->
+        <test-method status="PASS" signature="loadTest()[pri:0, instance:seleniumTestNGinterview.LoadAndPerformanceTesting@204f30ec]" name="loadTest" duration-ms="24772" started-at="2017-08-08T12:19:33Z" finished-at="2017-08-08T12:19:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadTest -->
+        <test-method status="PASS" signature="loadTest()[pri:0, instance:seleniumTestNGinterview.LoadAndPerformanceTesting@204f30ec]" name="loadTest" duration-ms="20056" started-at="2017-08-08T12:19:52Z" finished-at="2017-08-08T12:20:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadTest -->
+        <test-method status="PASS" signature="loadTest()[pri:0, instance:seleniumTestNGinterview.LoadAndPerformanceTesting@204f30ec]" name="loadTest" duration-ms="18537" started-at="2017-08-08T12:19:52Z" finished-at="2017-08-08T12:20:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadTest -->
+        <test-method status="PASS" signature="loadTest()[pri:0, instance:seleniumTestNGinterview.LoadAndPerformanceTesting@204f30ec]" name="loadTest" duration-ms="19503" started-at="2017-08-08T12:19:57Z" finished-at="2017-08-08T12:20:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadTest -->
+        <test-method status="PASS" signature="loadTest()[pri:0, instance:seleniumTestNGinterview.LoadAndPerformanceTesting@204f30ec]" name="loadTest" duration-ms="22077" started-at="2017-08-08T12:19:58Z" finished-at="2017-08-08T12:20:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadTest -->
+        <test-method status="PASS" signature="loadTest()[pri:0, instance:seleniumTestNGinterview.LoadAndPerformanceTesting@204f30ec]" name="loadTest" duration-ms="21953" started-at="2017-08-08T12:19:59Z" finished-at="2017-08-08T12:20:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadTest -->
+        <test-method status="PASS" signature="loadTest()[pri:0, instance:seleniumTestNGinterview.LoadAndPerformanceTesting@204f30ec]" name="loadTest" duration-ms="24002" started-at="2017-08-08T12:20:11Z" finished-at="2017-08-08T12:20:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadTest -->
+        <test-method status="PASS" signature="loadTest()[pri:0, instance:seleniumTestNGinterview.LoadAndPerformanceTesting@204f30ec]" name="loadTest" duration-ms="21674" started-at="2017-08-08T12:20:12Z" finished-at="2017-08-08T12:20:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadTest -->
+        <test-method status="PASS" signature="loadTest()[pri:0, instance:seleniumTestNGinterview.LoadAndPerformanceTesting@204f30ec]" name="loadTest" duration-ms="20453" started-at="2017-08-08T12:20:16Z" finished-at="2017-08-08T12:20:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadTest -->
+        <test-method status="PASS" signature="loadTest()[pri:0, instance:seleniumTestNGinterview.LoadAndPerformanceTesting@204f30ec]" name="loadTest" duration-ms="23348" started-at="2017-08-08T12:20:20Z" finished-at="2017-08-08T12:20:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadTest -->
+        <test-method status="PASS" signature="loadTest()[pri:0, instance:seleniumTestNGinterview.LoadAndPerformanceTesting@204f30ec]" name="loadTest" duration-ms="23254" started-at="2017-08-08T12:20:21Z" finished-at="2017-08-08T12:20:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadTest -->
+      </class> <!-- seleniumTestNGinterview.LoadAndPerformanceTesting -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

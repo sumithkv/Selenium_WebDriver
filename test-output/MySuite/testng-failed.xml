@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [MySuite]" parallel="none">
+  <listeners>
+    <listener class-name="com.sumith.utilityFunctions.TestNgTestListener"/>
+  </listeners>
+  <test name="FirefoxTest(failed)" parallel="none">
+    <classes>
+      <class name="com.sumith.utilityFunctions.TestNgTestClass">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- com.sumith.utilityFunctions.TestNgTestClass -->
+      <class name="com.sumith.utilityFunctions.TestNgSuitClass">
+        <methods>
+          <include name="afterSuite"/>
+          <include name="beforeSuite"/>
+        </methods>
+      </class> <!-- com.sumith.utilityFunctions.TestNgSuitClass -->
+      <class name="com.sumith.testClasses.SuccessfulLogin">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- com.sumith.testClasses.SuccessfulLogin -->
+      <class name="com.sumith.testClasses.UnSuccessfulLogin">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.sumith.testClasses.UnSuccessfulLogin -->
+      <class name="com.sumith.testClasses.FailedLogin">
+        <methods>
+          <include name="thirdTest"/>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.sumith.testClasses.FailedLogin -->
+    </classes>
+  </test> <!-- FirefoxTest(failed) -->
+</suite> <!-- Failed suite [MySuite] -->

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestData>
+<SuccessfulLogin>
+	<User>admin</User>
+	<Password>demo123</Password>
+	<RememberMe>true</RememberMe>
+	<login>admin</login>
+</SuccessfulLogin>
+
+<UnSuccessfullLogin>
+	<User>Sumith</User>
+	<Password>Password@123</Password>
+	<RememberMe>false</RememberMe>
+</UnSuccessfullLogin>
+
+</TestData>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="MySuite" parallel="false" preserve-order="true">
+
+<listeners>
+		<listener class-name="com.sumith.utilityFunctions.TestNgTestListener" />
+</listeners>
+	
+  <test name="FirefoxTest" skipfailedinvocationcounts="false" time-out="100000"> 
+	<!-- 	
+	<parameter name="Browser" value="Firefox" />
+    	<groups>
+  			<run>
+  				<include name="Smoke" />
+				<exclude name="Database" />
+			</run>
+		</groups>
+	-->
+		
+	<packages>
+    		<package name="com.sumith.utilityFunctions"/>
+    		<package name="com.sumith.businessProcesses"/>
+            <package name="com.sumith.testClasses"/>
+    </packages>
+    
+  </test>
+</suite>
